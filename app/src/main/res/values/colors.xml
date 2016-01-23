@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <!--base color-->
+  <color name="white">#ffffff</color>
+
+  <color name="movie_detail_title_bg">#335fa0</color>
+</resources>
